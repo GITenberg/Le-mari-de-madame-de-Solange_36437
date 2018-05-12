@@ -1,0 +1,36 @@
+_repo: Le-mari-de-madame-de-Solange_36437
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Souvestre, Émile
+    alias: Souvestre, Emile
+    birthdate: 1806
+    deathdate: 1854
+    gutenberg_agent_id: '1351'
+    url: http://www.gutenberg.org/2009/agents/1351
+  editor:
+    agent_name: Super, O. B. (Ovando Byron)
+    alias: Super, Ovando Byron
+    birthdate: 1848
+    deathdate: 1935
+    gutenberg_agent_id: '38268'
+    url: http://www.gutenberg.org/2009/agents/38268
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2011-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36437'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French language -- Readers'
+- !lcsh 'France -- History -- Louis XVI, 1774-1793 -- Fiction'
+title: Le mari de madame de Solange
+url: http://www.gutenberg.org/ebooks/36437
